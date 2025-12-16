@@ -2,6 +2,7 @@
 PageName: "Discordサーバーが誕生しました。"
 PageTitle: "Discordサーバーが誕生しました。"
 PageAbstract: "サイトの主と会話をすることができます。"
+PageImg: null
 PageTag: "Discord"
 PageUpdateDay: "2023/07/11"
 important: false

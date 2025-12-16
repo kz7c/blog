@@ -2,6 +2,7 @@
 PageName: "サイトが更新されました。"
 PageTitle: "サイトが更新されました。"
 PageAbstract: "更新内容のお知らせです！！"
+PageImg: null
 PageTag: "サーバー"
 PageUpdateDay: "2023/04/23"
 important: false
