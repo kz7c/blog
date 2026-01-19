@@ -5,7 +5,7 @@ PageAbstract: "プログラミングが書けないあなたもこの機会に�
 PageImg: "/assets/pien.png"
 PageTag: "ぴえ鯖"
 PageUpdateDay: "2025/12/17"
-important: true
+important: false
 top: true
 news: true
 --- 
