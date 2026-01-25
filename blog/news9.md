@@ -5,7 +5,7 @@ PageAbstract: "ぴえ鯖でプログラミングコンテストの審査会を�
 PageImg: "/assets/news9.png"
 PageTag: "ぴえ鯖"
 PageUpdateDay: "2026/1/19"
-important: true
+important: false
 top: true
 news: true
 --- 
